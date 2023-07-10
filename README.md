@@ -18,17 +18,16 @@
 <p align="center">
 <img alt="loficity" width="900px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
+
+#
  
 - 🌱 I’m currently learning dart,flutter.
 - 📫 How to reach me
-    - [Phone](+959887423400) 
+    - [Phone](tel:+959775945197) 
     - [Email](thetmyoekhaing.npi@gmail.com)
     - [LinkedIn](https://www.linkedin.com/in/thet-myoe-khaing-7423aa26a/)
 
 #
-
-
-
 
 **Languages and Tools I use**
 
