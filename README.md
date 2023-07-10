@@ -23,8 +23,7 @@
  
 - 🌱 I’m currently learning dart,flutter.
 - 📫 How to reach me
-    - [Phone](tel:+959775945197) 
-    - [Email](thetmyoekhaing.npi@gmail.com)
+    - [Email](mailto:newpathwaymyanmar@outlook.com?subject=Feedback&body=Message)
     - [LinkedIn](https://www.linkedin.com/in/thet-myoe-khaing-7423aa26a/)
 
 #
