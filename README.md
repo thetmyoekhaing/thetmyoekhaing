@@ -55,6 +55,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomari99&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tomari99&theme=2077&utcOffset=8) 
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 <!--
 **tomari99/tomari99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
