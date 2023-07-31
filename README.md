@@ -19,12 +19,36 @@
 <img alt="loficity" width="900px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
 
-#
- 
-- 🌱 I’m currently learning dart,flutter.
-- 📫 How to reach me
-    - [Email](mailto:thetmyoekhaing.npi@gmail.com?subject=Feedback&body=Message)
-    - [LinkedIn](https://www.linkedin.com/in/thet-myoe-khaing-7423aa26a/)
+## About Me
+<table>
+  <tr>
+    <td valign="center">
+      
+🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
+
+🌱 I am currently learning **Dart(Flutter)** and also interested in coding related fields such as **IOT and Embedded Programming**.
+
+🎯 My Goal is to Contribute to as many **open source project** as possible.
+
+
+      
+<td >
+      <a href="https://app.daily.dev/tomari"><img src="https://api.daily.dev/devcards/54bf45090b344939b123f9a62057b244.png?r=n89" width="400" alt="Thet Myoe Khaing's Dev Card"/></a>    
+    </td>
+    
+  </tr>
+  </table>
+
+
+## Connect With Me 👋🏼
+
+<p align="left">  
+<a href="https://www.linkedin.com/in/thet-myoe-khaing-7423aa26a/" target="blank"><img width="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a>
+  
+<a href="https://www.instagram.com/dlwlrmasboy/" target="blank"><img width="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
+
+
+</p>
 
 #
 
