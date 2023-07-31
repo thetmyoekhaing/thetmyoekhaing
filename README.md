@@ -44,7 +44,6 @@
 
 <p align="left">  
 <a href="https://www.linkedin.com/in/thet-myoe-khaing-7423aa26a/" target="blank"><img width="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a>
-  
 <a href="https://www.instagram.com/dlwlrmasboy/" target="blank"><img width="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
 
 
