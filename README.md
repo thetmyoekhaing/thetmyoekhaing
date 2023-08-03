@@ -20,24 +20,18 @@
 </p>
 
 ## About Me
-<table>
-  <tr>
-    <td valign="center">
-      
-🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
 
-🌱 I am currently learning **Dart(Flutter)** and also interested in coding related fields such as **IOT and Embedded Programming**.
-
-🎯 My Goal is to Contribute to as many **open source project** as possible.
+<a href="https://app.daily.dev/tomari"><img align="right" src="https://api.daily.dev/devcards/54bf45090b344939b123f9a62057b244.png?r=n89" width="300" alt="Thet Myoe Khaing's Dev Card"/></a> 
 
 
-      
-<td >
-      <a href="https://app.daily.dev/tomari"><img src="https://api.daily.dev/devcards/54bf45090b344939b123f9a62057b244.png?r=n89" width="400" alt="Thet Myoe Khaing's Dev Card"/></a>    
-    </td>
-    
-  </tr>
-  </table>
+
+* 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**. <br><br>
+
+* 🌱 I am currently learning **Dart(Flutter)** and also interested in coding related fields such as **IOT and Embedded Programming**. <br><br>
+
+* 🎯 My Goal is to Contribute to as many **open source project** as possible. <br><br>
+
+* ☕ Interest: Kdramas, Coffee, and Coding. <br><br>
 
 
 ## Connect With Me 👋🏼
