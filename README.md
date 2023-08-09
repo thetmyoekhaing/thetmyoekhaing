@@ -16,14 +16,13 @@
 
  
 <p align="center">
-<img alt="loficity" width="900px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+<img alt="loficity" width="900px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTB0OWtrMW4xZnV1d2s4ejN4dXp1M3MzdjR5dnZoYnJ2anRncmNoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"</img>
 </p>
 
-## About Me
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhmcWg1dXZhNnBmaXZ1MGJvajE1Ymk4dXZqMnk0MzBxYWxqYzYzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="40">  about me...  
 
 <a href="https://app.daily.dev/tomari"><img align="right" src="https://api.daily.dev/devcards/54bf45090b344939b123f9a62057b244.png?r=n89" width="300" alt="Thet Myoe Khaing's Dev Card"/></a> 
-
-
 
 * 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**. <br><br>
 
@@ -34,18 +33,17 @@
 * ☕ Interest: Kdramas, Coffee, and Coding. <br><br>
 
 
-## Connect With Me 👋🏼
+## 👋🏼 Connect With Me 
+
 
 <p align="left">  
 <a href="https://www.linkedin.com/in/thet-myoe-khaing-7423aa26a/" target="blank"><img width="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a>
 <a href="https://www.instagram.com/dlwlrmasboy/" target="blank"><img width="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
-
-
 </p>
 
-#
+<br>
 
-**Languages and Tools I use**
+## Languages and Tools I use
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" />   
