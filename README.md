@@ -42,13 +42,13 @@
 </p>
 
 #
-
+<!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomari99" alt="tomari99" /></a> </p>
 
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomari99&show_icons=true&locale=en&layout=compact" alt="tomari99" /></p>
 
-
+-->
 
 
 
