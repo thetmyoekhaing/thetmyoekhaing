@@ -66,7 +66,7 @@ void main() {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thet-myoe-khaing-7423aa26a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thet-myoe-khaing-7423aa26a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thetmyoekhaing/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thet-myoe-khaing-7423aa26a" height="30" width="40" /></a>
 <a href="https://fb.com/thetmyoekhaing99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thetmyoekhaing99" height="30" width="40" /></a>
 <a href="https://instagram.com/dlwlrmasboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dlwlrmasboy" height="30" width="40" /></a>
 </p>
