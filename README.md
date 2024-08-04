@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Thet Myoe Khaing (Tomari)</h1>
-<h3 align="center">Junior Developer who is passionate in coding related fields such as Web,Mobile and IOT. Most used language Dart(Flutter).</h3>
+<h3 align="center">A Software Developer who is passionate in coding related fields such as Web,Mobile and IOT. Most used language Dart(Flutter).</h3>
 
 
 
