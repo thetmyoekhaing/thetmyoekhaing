@@ -1,3 +1,5 @@
+permissions:
+  contents: write
 name: Latest Medium Posts
 on:
   schedule:
