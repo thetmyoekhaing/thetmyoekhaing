@@ -51,7 +51,7 @@ class DeveloperProfile {
 ## Technical Writing
 
 <!-- BLOG-POST-LIST:START -->
-<!-- Automated blog posts will appear here -->
+- [A Refined Flutter Starter for Scalable and Clean Apps](https://tomaridev.medium.com/a-refined-flutter-starter-for-scalable-and-clean-apps-2ae9746419dd?source=rss-45ea08f22003------2)
 <!-- BLOG-POST-LIST:END -->
 
 Explore more articles on [Medium →](https://medium.com/@tomaridev)
