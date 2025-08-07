@@ -1,98 +1,68 @@
-
-<h1 align="center">Hi 👋, I'm Thet Myoe Khaing (Tomari)</h1>
-<p align="center">A Software developer specializing in mobile/web applications with Flutter and React.
-</p>
-
-
+# Thet Myoe Khaing (Tomari) | Software Developer
 
 <p align="center">
-<img alt="loficity" width="900px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTB0OWtrMW4xZnV1d2s4ejN4dXp1M3MzdjR5dnZoYnJ2anRncmNoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"</img>
+  <img alt="Software Development Visualization" width="800" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 </p>
 
+## A little bit about me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomari99&label=Profile%20views&color=0e75b6&style=flat" alt="tomari99" /> </p>
-
+A software developer specializing in cross-platform application development with expertise in **Flutter** and **React.js**. Passionate about building scalable, high-performance applications with clean architecture and intuitive user experiences. Currently based in Myanmar and available for global remote opportunities.
 
 ```dart
-class GitHubProfile {
-  final String username;
-  final String bio;
-  final List<String> skills;
+class DeveloperProfile {
+  final String name = "Thet Myoe Khaing";
+  final String alias = "Tomari";
+  final List<String> techStack = ["Dart","Flutter", "React", "Firebase", "MongoDB", "Node.js", "TailwindCSS"];
+  final String mission = "Build scalable applications that deliver exceptional user experiences";
 
-  GitHubProfile({
-    required this.username,
-    required this.bio,
-    required this.skills,
-  });
-
-  String aboutMe() {
-    final skillsList = skills.map((skill) => '- $skill').join('\n');
-
-    return '''
-
-# Hello, World! 👋
-
-I'm @$username, a passionate Dart developer.
-
-## About Me
-
-- 💼 $bio
-
-## Skills
-
-$skillsList
-
-- 🌱 I’m currently learning **Kotlin**
-
-- 💬 Ask me about **dart(flutter)**
-
-''';
+  void contact() {
+    print("""
+    📍 Location: Myanmar (Remote)
+    ✉️ Email: thetmyoekhaing.npi@gmail.com
+    🔗 LinkedIn: linkedin.com/in/thetmyoekhaing
+    📚 Medium: @tomaridev
+    """);
   }
 }
-
-void main() {
-  final myProfile = GitHubProfile(
-    username: 'tomari99',
-    bio: 'A Flutter Dev | Dart & Flutter Enthusiast',
-    skills: ['Dart', 'Flutter', 'Firebase', 'MongoDB', "Git", "ReactJS", "TailwindCSS"],
-  );
-
-  final aboutMe = myProfile.aboutMe();
-  print(aboutMe);
-}
-
-
 ```
 
 
-- 📫 How to reach me **thetmyoekhaing.npi@gmail.com**
+### Core Technologies
 
-<div>
-  <div>
-    
-  
-  <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/thetmyoekhaing/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thet-myoe-khaing-7423aa26a" height="30" width="40" /></a>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-</div>
-<br>
-<a href="https://app.daily.dev/tomari"><img src="https://api.daily.dev/devcards/v2/F7U0kcdwpFZRZvMVhePNI.png?r=fcc&type=wide" width="100%" alt="Thet Myoe Khaing's Dev Card"/></a>
-</div>
 
+## Development Principles
+- 🏗️ Modular application architecture
+- ✨ Clean, maintainable code standards
+- ⚡ Performance-optimized implementations
+- 📱 Responsive UI/UX design
+- 🔄 CI/CD pipeline integration
 
+## Technical Writing
 
+<!-- BLOG-POST-LIST:START -->
+<!-- Automated blog posts will appear here -->
+<!-- BLOG-POST-LIST:END -->
 
+Explore more articles on [Medium →](https://medium.com/@tomaridev)
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+## Professional Contact
+- ✉️ **Email**: [thetmyoekhaing.npi@gmail.com](mailto:thetmyoekhaing.npi@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/thetmyoekhaing](https://linkedin.com/in/thetmyoekhaing)
+- 📝 **Technical Blog**: [Medium @tomari.dev](https://medium.com/@tomaridev)
 
-
-
-
-
-
-
-
+<p align="center">
+  <a href="mailto:thetmyoekhaing.npi@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
+  </a>
+</p>

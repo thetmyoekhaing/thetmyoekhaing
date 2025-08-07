@@ -1,0 +1,15 @@
+name: Latest Medium Posts
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once a day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Medium Posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@tomaridev"
