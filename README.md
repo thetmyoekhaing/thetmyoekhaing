@@ -51,6 +51,7 @@ class DeveloperProfile {
 ## Technical Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [QuoteMate — A Lightweight Quoting Tool for Freelancers &lpar;Early Demo&rpar;](https://tomaridev.medium.com/quotemate-a-lightweight-quoting-tool-for-freelancers-early-demo-3ccf8158ca9a?source=rss-45ea08f22003------2)
 - [A Refined Flutter Starter for Scalable and Clean Apps](https://tomaridev.medium.com/a-refined-flutter-starter-for-scalable-and-clean-apps-2ae9746419dd?source=rss-45ea08f22003------2)
 <!-- BLOG-POST-LIST:END -->
 
